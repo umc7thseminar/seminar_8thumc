@@ -13,7 +13,7 @@ export const MEMBERS = [
         nickname: "은별",
         name: "정은지",
         part: Part.운영진,
-        profile_img_url: "/assets/images/member/eunji_profile.png",
+        profile_img_url: "/assets/images/members/eunji_profile.png",
         title: "안녕하세요. umc 부회장 정은지입니다. :)",
         redirect_url: "https://github.com/bianbbc87",
     },
