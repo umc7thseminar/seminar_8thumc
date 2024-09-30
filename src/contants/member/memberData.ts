@@ -17,4 +17,12 @@ export const MEMBERS = [
         title: "안녕하세요. umc 부회장 정은지입니다. :)",
         redirect_url: "https://github.com/bianbbc87",
     },
+    {
+        nickname: "몽환",
+        name: "김민환",
+        part: Part.SPRINGBOOT,
+        profile_img_url: "/assets/images/members/내동생.jpeg",
+        title: "안녕하세요. umc 김민환입니다. :)",
+        redirect_url: "https://github.com/rlaalsghks8",
+    }
 ]
