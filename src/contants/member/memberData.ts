@@ -1,6 +1,14 @@
 import { Part } from "@/interfaces/member/memberBox";
 
 export const MEMBERS = [
+    {
+        nickname: "몽환",
+        name: "김민환",
+        part: Part.SPRINGBOOT,
+        profile_img_url: "/assets/images/members/내동생.jpeg",
+        title: "안녕하세요. umc 김민환입니다. :)",
+        redirect_url: "https://github.com/rlaalsghks8",
+    },
   {
     nickname: "닉네임", /// 본인의 닉네임
     name: "이름", /// 본인의 이름
