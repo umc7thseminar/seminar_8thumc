@@ -26,4 +26,13 @@ export const MEMBERS = [
     title: "밥은 먹고 다니는 개발자가 되려 합니다", /// 본인의 한 줄 소개
     redirect_url: "https://github.com/mangang0713", /// 프로필 클릭 시 이동할 경로
   },
+
+  {
+    nickname: "헤쌀", /// 본인의 닉네임
+    name: "이주형", /// 본인의 이름
+    part: Part.WEB, /// 본인의 파트
+    profile_img_url: "/assets/images/members/juhyung_profile_img.png", /// 본인의 프로필 사진, 동일한 경로로 설정해주세요.
+    title: "밥은 먹고 다니는 개발자가 되려 합니다", /// 본인의 한 줄 소개
+    redirect_url: "https://github.com/mangang0713", /// 프로필 클릭 시 이동할 경로
+  },
 ];
