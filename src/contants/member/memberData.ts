@@ -17,4 +17,14 @@ export const MEMBERS = [
         title: "안녕하세요. umc 부회장 정은지입니다. :)",
         redirect_url: "https://github.com/bianbbc87",
     },
+    {
+        nickname: "쥰",
+        name: "박성준",
+        part: Part.운영진,
+        profile_img_url: "/assets/images/members/KakaoTalk_20240924_165330198.jpg",
+        title: "안녕하세요. umc SPRING 파트장 박성준입니다. :)",
+        redirect_url: "https://github.com/SJ-PARKs",
+    },
+    
+    
 ]
