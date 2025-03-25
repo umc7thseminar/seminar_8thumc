@@ -1,2 +1,2 @@
-## UMC DGU 7th github 세미나 자료
+## UMC DGU 8th github 세미나 자료
 
